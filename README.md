@@ -23,7 +23,7 @@ Use a radio message service such as WinLink or SOTAMate (or any others!) to tran
 * City/County/State/Province
 * [WhatThreeWords](https://what3words.com) coordinates
 
-**WHAT** you need:
+**WHAT** you need - examples:
 * Welfare messages relayed to your emergency contacts? (Share phone numbers!)
 * Number of persons impacted?
 * Injuries sustained? 
@@ -31,7 +31,7 @@ Use a radio message service such as WinLink or SOTAMate (or any others!) to tran
 * Food supplies needed?
 
 **HOW** to contact you (if applicable):
-* What frequency you are monitoring 
+* What frequencies you are monitoring 
 * How often (sked) you are monitoring 
 
 Upon receiving the email message, the HamSOS service will relay the email message to amateur volunteers monitoring the HamSOS Discord channels. Volunteers may attempt to respond to your email message (if possible) in order to acknowledge the status of request/s made in your email message. 
