@@ -4,8 +4,9 @@
 [Jump to: DISCLAIMER](#disclaimer)
 
 ## How to TEST your radio/message configurations with HamSOS:
-Join the HamJazz Discord and view the `#🆘🚨hamjazzsos🚨` channel.
-Use a radio message service such as WinLink or SOTAMate (or any others!) to transmit an email message to:
+1) Join the HamJazz Discord and view the `#🆘🚨hamjazzsos🚨` channel.
+
+2) Use a radio message service such as WinLink or SOTAMate (or any others!) to transmit an email message to:
 * `HamJazzSOS+test@gmail.com`
 * OR `HamJazzSOS+testing@gmail.com`
 
