@@ -52,6 +52,7 @@ The “HamSOS” (also “HamJazzSOS”) is an amateur volunteer service to enha
 Users should be aware that this service is not a replacement for satellite communication devices or any other professional-grade communication system. 
  
 Use of this amateur service is entirely at your own risk. The system is built and operated as a personal hobby by its creators and volunteers. No guarantees or warranties—either express or implied—are made regarding its performance, availability, or reliability. Under no circumstances should this service be relied upon in situations where failure or delay could result in harm to persons or property.
+
 The successful use of this service depends upon the individual skill & knowledge of its users, the coincidental availability of volunteers, and the coincidental uptime/availability of multiple third party services including: 
 * Internet service providers
 * Cellular/telephony networks
