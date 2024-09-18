@@ -30,7 +30,7 @@ Use a radio message service such as WinLink or SOTAMate (or any others!) to tran
 * What frequency you are monitoring 
 * How often (sked) you are monitoring 
 
-Upon receiving the email message, the HamSOS service will relay the email message to amateur volunteers monitoring the HamSOS Discord channels (Link: https://discord.gg/mUHJvahg) . Volunteers may attempt to respond to your email message (if possible) in order to acknowledge the status of request/s made in your email message. 
+Upon receiving the email message, the HamSOS service will relay the email message to amateur volunteers monitoring the HamSOS Discord channels. Volunteers may attempt to respond to your email message (if possible) in order to acknowledge the status of request/s made in your email message. 
 
 It is unlawful to knowingly use HamSOS to falsely report (or circulate reports of) emergencies that will cause action of any sort by an official or volunteer agency organized to deal with emergencies. Abuses of the HamSOS service will be forwarded to appropriate law enforcement authorities.
 
