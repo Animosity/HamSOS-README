@@ -7,6 +7,7 @@
 Use a radio message service such as WinLink or SOTAMate (or any others!) to transmit an email message to:
 * `HamJazzSOS+test@gmail.com`
 * OR `HamJazzSOS+testing@gmail.com`
+
 Note: SOTAMates messages are pre-defined/canned messages and for emergencies, you should create an "I'M OK" message and an "I NEED HELP" message, each with instructions on how to relay the status to your desired contacts. See "How to use HamSOS in emergencies" for other information you may wish to include.
 
 ## How to use HamSOS in emergencies:
