@@ -1,4 +1,4 @@
-# READ BEFORE USING 
+# READ BEFORE USING HAMSOS
 [Jump to: PRIVACY NOTICE](#privacy)
 
 [Jump to: DISCLAIMER](#disclaimer)
