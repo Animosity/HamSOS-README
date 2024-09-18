@@ -11,6 +11,7 @@ Use a radio message service such as WinLink or SOTAMate (or any others!) to tran
 
 ## How to use HamSOS in emergencies:
 Use a radio message service such as WinLink or SOTAMate (or any others!) to transmit an email message to `HamJazzSOS@gmail.com` with actionable information included:
+
 **WHO** you are 
 * Callsign, and/or legal name
 
