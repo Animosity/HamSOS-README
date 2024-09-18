@@ -21,6 +21,7 @@ Use a radio message service such as WinLink or SOTAMate (or any others!) to tran
 * GPS/position coordinates 
 * Maidenhead grid square
 * City/County/State/Province
+* [WhatThreeWords](https://what3words.com) coordinates
 
 **WHAT** you need:
 * Welfare messages relayed to your emergency contacts? (Share phone numbers!)
