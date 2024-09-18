@@ -41,14 +41,12 @@ It is unlawful to knowingly use HamSOS to falsely report (or circulate reports o
 
 
 
-
-## Privacy Notice 
 <a name="privacy"></a>
+## Privacy Notice 
 By using amateur radio service/s to communicate messages, there is no reasonable expectation of privacy and any transmissions can be legally received by any persons/entities. HamSOS operates as an extension of amateur radio service and provides no privacy enhancements, and its communications are subject to the privacy policies of all third-party services utilized by HamSOS.
 
-
-## Disclaimer 
 <a name="disclaimer"></a>
+## Disclaimer 
 The “HamSOS” (also “HamJazzSOS”) is an amateur volunteer service to enhance the odds of successful contact when professional communication services/infrastructure are unavailable. HamSOS is not designed for 100% reliable message delivery and does not utilize professionally developed systems or architectures. 
 
 Users should be aware that this service is not a replacement for satellite communication devices or any other professional-grade communication system. 
